@@ -4,6 +4,6 @@ Theoretical solution was on the right track from a few hours after puzzle releas
 
 Got help on many aspects including solving the system with sage and the rust implementation from iazid and jb53
 
-Need to study more to understand fully as mathematical background is weak on solving systems over group orders 
+Need to study more to understand fully
 
 Rust is also VERY weak as this is the first time I've ever used rust
